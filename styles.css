@@ -1,0 +1,18 @@
+body, html {
+  margin: 0;
+  height: 100%;
+}
+.left {
+  
+  width: 20%;
+  background-color: #a2e392;
+  float: left;
+  height: 100%;
+}
+.right {
+  
+  width: 100%;
+  background-color: #90ee90;
+  float: left;
+  height: 100%;
+}
